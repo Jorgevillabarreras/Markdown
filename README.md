@@ -424,7 +424,7 @@ sin el \ backslash
 # Creating a Task List
 Groceries:
 
-[X] Carrot
+[x] Carrot
 
 - [x] Baby Carrot 
 
