@@ -299,7 +299,7 @@ tab + * Sin Grasa
 
 
 # Images
-Para anadir una imagen
+Para anadir una imagen local
 
 ![hacker](hacker.gif)
 
