@@ -1,4 +1,4 @@
-# Comandos
+# Markdown
 [Itilicizing text](#itilicizing-Text)
 
 [Bolding Text](#bolding-text)
