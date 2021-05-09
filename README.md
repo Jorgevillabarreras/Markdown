@@ -438,7 +438,7 @@ Groceries:
 # Creating a Task List
 Groceries:
 
-[x] Carrot   
+[ x ] Carrot   
 
  - [x] Baby Carrot 
 
